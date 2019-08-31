@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+}
+
+header {
+    width: 350px;
+    height: auto;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: black;
+}
